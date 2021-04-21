@@ -6,10 +6,10 @@ public class Calculator {
     return 0;
   }
   public int mul(int a, int b){
-    return 0;
+    return a*b;
   }
   public int div(int a, int b){
-    return 0;
+    return a/b;
   }
   public int mod(int a, int b){
     return 0;
