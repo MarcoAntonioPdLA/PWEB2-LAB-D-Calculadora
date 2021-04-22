@@ -12,6 +12,6 @@ public class Calculator {
     return a/b;
   }
   public int mod(int a, int b){
-    return 0;
+    return a%b;
   }
 }
