@@ -1,4 +1,4 @@
-# Resolución de la actividad 01 de laboratorio de PWEB2.
+# Resolución de la actividad del laboratorio 01 de PWEB2.
 ## Integrantes:
 _Alumnos del grupo D del laboratorio de Programación Web 2_
 * **Ponce de Leon Aguilar, Marco Antonio** - *Creación de proyecto* - [MarcoAntonioPdLA](https://github.com/MarcoAntonioPdLA)
